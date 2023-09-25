@@ -1,1 +1,1 @@
- esse foi meu segundo projeto feito no html 
+ esse foi meu segundo projeto feito no html utilizando novas tags: (img) para imagens, (ul) para selecionar itens sem uma ordem a ser seguida, (li) para selecionar itens em uma lista, (input) para construir um tipo de formulario ou cadastro e (button) para criar um botao 
